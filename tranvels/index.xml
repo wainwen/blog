@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tranvels on 老文的点点滴滴</title>
+    <link>/tranvels/</link>
+    <description>Recent content in Tranvels on 老文的点点滴滴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tranvels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自驾游的准备工作</title>
+      <link>/tranvels/%E8%87%AA%E9%A9%BE%E6%B8%B8%E7%9A%84%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tranvels/%E8%87%AA%E9%A9%BE%E6%B8%B8%E7%9A%84%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/</guid>
+      <description>车 男人都爱车。 第一辆车：夏利 2000 第二辆车：爱丽舍 第三辆车：逍客 第四辆车：ML 400</description>
+    </item>
+    
+  </channel>
+</rss>

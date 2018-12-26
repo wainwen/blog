@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>豆瓣 on 老文的点点滴滴</title>
+    <link>/tags/%E8%B1%86%E7%93%A3/</link>
+    <description>Recent content in 豆瓣 on 老文的点点滴滴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 09 Sep 2018 10:08:45 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/%E8%B1%86%E7%93%A3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>随佛法师其人</title>
+      <link>/posts/%E9%9A%8F%E4%BD%9B%E6%B3%95%E5%B8%88%E5%85%B6%E4%BA%BA/</link>
+      <pubDate>Sun, 09 Sep 2018 10:08:45 +0800</pubDate>
+      
+      <guid>/posts/%E9%9A%8F%E4%BD%9B%E6%B3%95%E5%B8%88%E5%85%B6%E4%BA%BA/</guid>
+      <description>土豆上搜索随佛法师，就能找到随佛最新的开示，个人觉得非常精彩。比如：原始佛教十二因缘经法原说、一乘菩提道次第、佛陀亲传之禅法、离贪不是厌离、</description>
+    </item>
+    
+  </channel>
+</rss>

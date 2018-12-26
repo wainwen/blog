@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日日新 on 老文的点点滴滴</title>
+    <link>/categories/%E6%97%A5%E6%97%A5%E6%96%B0/</link>
+    <description>Recent content in 日日新 on 老文的点点滴滴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 07 Sep 2018 13:48:38 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/%E6%97%A5%E6%97%A5%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>汪学群：从龙场悟道至天泉证道</title>
+      <link>/collections/%E6%B1%AA%E5%AD%A6%E7%BE%A4%E4%BB%8E%E9%BE%99%E5%9C%BA%E6%82%9F%E9%81%93%E8%87%B3%E5%A4%A9%E6%B3%89%E8%AF%81%E9%81%93/</link>
+      <pubDate>Fri, 07 Sep 2018 13:48:38 +0800</pubDate>
+      
+      <guid>/collections/%E6%B1%AA%E5%AD%A6%E7%BE%A4%E4%BB%8E%E9%BE%99%E5%9C%BA%E6%82%9F%E9%81%93%E8%87%B3%E5%A4%A9%E6%B3%89%E8%AF%81%E9%81%93/</guid>
+      <description>提要：学术界从哲学角度对王阳明的思想发展过程已有论述，但没有从经典诠释（经学思想）角度梳理其思想形成及发展。本文立足于经典诠释，主要分经典诠</description>
+    </item>
+    
+  </channel>
+</rss>
