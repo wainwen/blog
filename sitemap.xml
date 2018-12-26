@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/collections/%E6%B1%AA%E9%A2%91%E9%AB%98%E9%98%B3%E6%98%8E%E5%9B%9B%E5%8F%A5%E6%95%99%E5%8F%8A%E5%9B%9B%E6%9C%89%E5%9B%9B%E6%97%A0%E8%AF%B4%E8%AE%BA%E4%BA%89%E4%B9%8B%E7%8E%B0%E4%BB%A3%E8%AF%A0%E9%87%8A/</loc>
+    <lastmod>2018-09-09T12:38:50+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/%E9%9A%8F%E4%BD%9B%E6%B3%95%E5%B8%88%E5%85%B6%E4%BA%BA/</loc>
     <lastmod>2018-09-09T10:08:45+08:00</lastmod>
   </url>
@@ -15,6 +20,11 @@
   <url>
     <loc>/collections/%E6%B1%AA%E5%AD%A6%E7%BE%A4%E4%BB%8E%E9%BE%99%E5%9C%BA%E6%82%9F%E9%81%93%E8%87%B3%E5%A4%A9%E6%B3%89%E8%AF%81%E9%81%93/</loc>
     <lastmod>2018-09-07T13:48:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/%E4%BA%A7%E5%93%81%E5%92%8C%E6%9C%8D%E5%8A%A1%E7%9A%84%E4%B8%89%E4%B8%AA%E6%A0%B9%E6%9C%AC%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2018-09-06T15:48:27+08:00</lastmod>
   </url>
   
   <url>
@@ -39,7 +49,7 @@
   
   <url>
     <loc>/collections/</loc>
-    <lastmod>2018-09-07T13:48:38+08:00</lastmod>
+    <lastmod>2018-09-09T12:38:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,7 +72,7 @@
   
   <url>
     <loc>/tags/%E4%BA%A7%E5%93%81/</loc>
-    <lastmod>2018-09-04T13:36:17+08:00</lastmod>
+    <lastmod>2018-09-06T15:48:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,7 +84,7 @@
   
   <url>
     <loc>/categories/%E6%97%A5%E6%97%A5%E6%96%B0/</loc>
-    <lastmod>2018-09-07T13:48:38+08:00</lastmod>
+    <lastmod>2018-09-09T12:38:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,7 +96,7 @@
   
   <url>
     <loc>/tags/%E7%8E%8B%E9%98%B3%E6%98%8E/</loc>
-    <lastmod>2018-09-07T13:48:38+08:00</lastmod>
+    <lastmod>2018-09-09T12:38:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
